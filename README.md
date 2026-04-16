@@ -2,13 +2,13 @@
 
 I'm VP of Product for [Microsoft Outlook](https://outlook.com), leading the AI direction across iOS, Android, and Mac. I've been at Microsoft since 2001.
 
-Everything here is nights-and-weekends — things I wished existed, built almost entirely with [Claude Code](https://claude.ai/code).
+Everything here is nights-and-weekends — building and learning about things I wished existed, built almost entirely with [Claude Code](https://claude.ai/code).
 
 ## Products
 
-📰 **[glosignal](https://glosignal.com)** — AI-powered tech news aggregator. Scores thousands of stories daily, surfaces only what signals matter. A broadsheet for the signal era.
+📰 **[glosignal](https://glosignal.com)** — AI-powered tech news aggregator. Scores thousands of stories daily, surfaces only what signals matter. Get caught up on tech news in 60 seconds.
 
-🌐 **[michaelp.ai](https://michaelp.ai)** — Product thinking, desert photographs, and whatever I'm building next.
+🌐 **[michaelp.ai](https://michaelp.ai)** — My personal site. ✌️
 
 ## Claude Code Tools
 
