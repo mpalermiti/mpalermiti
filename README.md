@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi, I'm Michael
 
-<!--
-**mpalermiti/mpalermiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm VP of Product for [Microsoft Outlook](https://outlook.com), leading the AI direction across iOS, Android, and Mac. I've been at Microsoft since 2001.
 
-Here are some ideas to get you started:
+Everything here is nights-and-weekends — things I wished existed, built almost entirely with [Claude Code](https://claude.ai/code).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Products
+
+📰 **[glosignal](https://glosignal.com)** — AI-powered tech news aggregator. Scores thousands of stories daily, surfaces only what signals matter. A broadsheet for the signal era.
+
+🌐 **[michaelp.ai](https://michaelp.ai)** — Product thinking, desert photographs, and whatever I'm building next.
+
+## Claude Code Tools
+
+All published to npm. Install with `npx @mpalermiti/<tool>`.
+
+💸 **[claude-spend](https://github.com/mpalermiti/claude-spend)** — See where your Claude Code tokens go. Deep analytics dashboard + MCP server. Date filtering, forecasting, tool breakdown.
+
+🧠 **[which-claude](https://github.com/mpalermiti/which-claude)** — Find the right Claude model for your prompts. Compares Haiku, Sonnet, and Opus on cost, quality, and speed in one command.
+
+🔥 **[burnmeter](https://github.com/mpalermiti/burnmeter)** — Track AI and cloud spend across 12 platforms (Vercel, Neon, OpenAI, Anthropic, and more) from one MCP. Ask Claude "what's my burn rate?" instead of checking eleven dashboards.
+
+📬 **[outlook-mcp](https://github.com/mpalermiti/outlook-mcp)** — MCP server for Outlook personal accounts via Microsoft Graph. 52 tools across mail, calendar, contacts, to-do, drafts, and attachments. Community project — not affiliated with Microsoft.
+
+## Connect
+
+- 𝕏 **[@MPalermiti](https://x.com/MPalermiti)**
+- 🌐 **[michaelp.ai](https://michaelp.ai)**
+
