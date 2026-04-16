@@ -1,7 +1,5 @@
 ### Hi, I'm Michael
 
-I'm VP of Product for [Microsoft Outlook](https://outlook.com), leading the AI direction across iOS, Android, and Mac. I've been at Microsoft since 2001.
-
 Everything here is nights-and-weekends — building and learning about things I wished existed, built almost entirely with [Claude Code](https://claude.ai/code).
 
 ## Products
